@@ -8,12 +8,6 @@ I am ✨Federico Senmartin✨,a software developer from Buenos Aires.
 - 🌎 I speak fluent Spanish & English.
 - ⚡ Fun fact: I own a private pilot licence.
 
-You can learn more about me and how to contact me on my portfolio website, https://fsenmartin.com/
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fedesenmartin)](https://github.com/anuraghazra/github-readme-stats)
-[![fedesenmartin github stats](https://github-readme-stats.vercel.app/api?username=fedesenmartin&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
 Languages and Tools:
 
  <div>
@@ -35,7 +29,12 @@ Languages and Tools:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-</div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fedesenmartin)](https://github.com/anuraghazra/github-readme-stats)
+[![fedesenmartin github stats](https://github-readme-stats.vercel.app/api?username=fedesenmartin&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+You can learn more about me and how to contact me on my portfolio website, https://fsenmartin.com/
 
 
 ---
