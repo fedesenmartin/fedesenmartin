@@ -10,8 +10,8 @@ I am ✨Federico Senmartin✨,a software developer from Buenos Aires.
 
 You can learn more about me and how to contact me on my portfolio website, https://fsenmartin.com/
 
-[![fedesenmartin github stats](https://github-readme-stats.vercel.app/api?username=fedesenmartin&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fedesenmartin)](https://github.com/anuraghazra/github-readme-stats)
+[![fedesenmartin github stats](https://github-readme-stats.vercel.app/api?username=fedesenmartin&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 Languages and Tools:
