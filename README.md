@@ -4,10 +4,9 @@ I am ✨Federico Senmartin✨, a software developer from Buenos Aires.
 
 - 🛠️ I’m currently working bluetooth and mobile. 
 - 🌱 I’ worked at software factories for all kind of different proyects
-- 👯 I’m looking to collaborate on open source proyects
+- 🖥️ I am looking for contribute to any open source proyect
 - 🌎 I speak fluent Spanish & English.
 - ⚡ Fun fact: I own a private pilot licence.
-- 🖥️ I am looking for contribute to any open source proyect
 
 You can learn more about me and how to contact me on my portfolio website, https://fsenmartin.com/
 
