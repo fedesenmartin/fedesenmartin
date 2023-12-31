@@ -13,8 +13,6 @@ You can learn more about me and how to contact me on my portfolio website, https
 
 Languages and Tools:
 
-<a href="https://soliditylang.org/" target="_blank" rel="noreferrer">
-<img src="solidityxeth.jpeg" alt="Solidity & Ethereum" width="80" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
