@@ -35,7 +35,7 @@ Languages and Tools:
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
 <img src="Rlogo.png" alt="R" width="40" height="40"/> </a>
 
+
 ---
 
-<a href="https://getalby.com/" target="_blank" rel="noreferrer"> 
-<img src="https://github.com/getAlby/media/blob/main/Alby-tipping-icons/120x55/tip-with-yellow.png" alt="Alby"/> </a>
+
