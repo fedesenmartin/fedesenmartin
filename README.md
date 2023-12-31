@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am ✨Federico Senmartin✨, a software developer from Buenos Aires.
+I am ✨Federico Senmartin✨,a software developer from Buenos Aires.
 
 - 🛠️ I’m currently working bluetooth and mobile. 
 - 🌱 I’ worked at software factories for all kind of different proyects
