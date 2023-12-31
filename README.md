@@ -12,8 +12,6 @@ I am ✨Federico Senmartin✨, a software developer from Buenos Aires.
 You can learn more about me and how to contact me on my portfolio website, https://fsenmartin.com/
 
 Languages and Tools:
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-
 
  <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" title="Android"  alt="Android" width="40" height="40"/>&nbsp;
