@@ -37,6 +37,11 @@ Languages and Tools:
 [![fedesenmartin github stats](https://github-readme-stats.vercel.app/api?username=fedesenmartin&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
+<h4 align="center">Contador de Visitas :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{lokywolf2295}/count.svg" alt="lokywolf2295 :: Visitor's Count" /></p>
+
+
 You can learn more about me and how to contact me on my portfolio website, https://fsenmartin.com/
 
 
