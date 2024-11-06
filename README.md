@@ -3,8 +3,8 @@
 I am ✨Federico Senmartin✨ a software developer from Buenos Aires.
 
 - 🛠️ I'm currently focused on mobile and Bluetooth technologies.
-- 🌱 I've worked in software factories on a wide range of projects.
-- 🖥️ I enjoy automating deployments to production and other environments to save time.
+- 🖥️ I've worked in software factories on a wide range of projects.
+- 🌱 I enjoy automating deployments to production and other environments to save time.
 - 🌎 I’m fluent in both Spanish and English.
 - ⚡ Fun fact: I have a private pilot license.
 
