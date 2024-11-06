@@ -2,11 +2,20 @@
 
 I am ✨Federico Senmartin✨ a software developer from Buenos Aires.
 
-- 🛠️ I'm currently focused on mobile and Bluetooth technologies.
-- 🖥️ I've worked in software factories on a wide range of projects.
-- 🌱 I enjoy automating deployments to production and other environments to save time.
-- 🌎 I’m fluent in both Spanish and English.
-- ⚡ Fun fact: I have a private pilot license.
+🛠️ Currently Working On:
+I'm actively engaged in projects focused on mobile and Bluetooth technologies, exploring innovative applications and integrations.
+
+🌱 Professional Experience:
+With experience across various software development environments, I’ve contributed to diverse projects in software factories, ranging from mobile applications to backend systems.
+
+🖥️ DevOps & Automation Enthusiast:
+I’m passionate about automating deployments across production and staging environments, optimizing workflows to improve efficiency and reliability.
+
+🌎 Languages:
+Fluent in Spanish and English, allowing me to collaborate effectively in bilingual teams.
+
+⚡ Fun Fact:
+I’m a licensed private pilot, combining my love for technology with a passion for aviation.
 
 Languages and Tools:
 
